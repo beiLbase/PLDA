@@ -5,9 +5,8 @@ import random
 from collections import defaultdict
 import os
 
-# 设置OpenAI API密钥
 client = OpenAI(
-    api_key="sk-ry2tBctP7fIQ7W3iNRgVqiDxALZoIumjM6pm3SF29nO0VP2A",
+    api_key="",
     base_url="https://api.chatanywhere.tech/v1"
 )
 
