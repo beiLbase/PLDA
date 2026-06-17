@@ -26,6 +26,8 @@ DOI: https://doi.org/10.18653/v1/D18-1514
 The dataset: https://github.com/thunlp/FewRel
 
 
+
+  
 KnowPrompt: Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction
 
 By Xiang Chen, Ningyu Zhang, Xin Xie, Shumin Deng, Yunzhi Yao, Chuanqi Tan, Fei Huang, Luo Si, Huajun Chen. WWW 2022.
