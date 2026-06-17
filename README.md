@@ -1,19 +1,21 @@
-Few-Shot Relation Extraction with Prototypical Network Combing Prompt Learning and Data Augmentation (PLDA)
+
+## Few-Shot Relation Extraction with Prototypical Network Combing Prompt Learning and Data Augmentation (PLDA)
 
 
-Task
-
-designing a query-aware prototypical network learning
-
-integrating query-aware prototypical network with relational information
+## TASK
+- <span style="font-size: 20px; font-weight: bold;">designing a query-aware prototypical network learning</span>
+- <span style="font-size: 20px; font-weight: bold;">integrating query-aware prototypical network with relational information</span>
 
 
-Acknowledgements
+
+
+
+##  Acknowledgements
 
 This repository contains the implementation of PLDA, a few-shot relation extraction model developed as part of my doctor's dissertation. The model constructs multiple structured prompt templates based on entity type constraints and formalizes the relation extraction task into a masked language modeling task, thereby guiding the classification model to incorporate general knowledge from the pre-trained language model. Furthermore, this method utilizes the GPT-3.5 large language model to generate semantically consistent and sentence-structure-diverse augmented instances to expand the support set and alleviate class-prototype bias in few-shot scenarios. The related works are listed below in acknowledgment of their contributions.
 
 
-Related Works
+## Related Works
 
 FewRel: A Large-Scale Supervised Few-Sample Relation Classification Dataset with State-of-the-Art Evaluation Results 
 
