@@ -23,7 +23,7 @@ By Xu Han, Hao Zhu, Pengfei Yu, Ziyun Wang, Yuan Yao, Zhiyuan Liu, Maosong Sun. 
 
 DOI: https://doi.org/10.18653/v1/D18-1514
 
-The dataset: https://github.com/thunlp/FewRel
+The dataset: https://github.com/thunlp/FewRel<br/>
 
 
 
