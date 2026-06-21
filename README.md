@@ -34,4 +34,12 @@ By Xiang Chen, Ningyu Zhang, Xin Xie, Shumin Deng, Yunzhi Yao, Chuanqi Tan, Fei 
 
 DOI: https://github.com/zjunlp/KnowPrompt
 
+<br>
+
+PTR: Prompt Tuning with Rules for Text Classification
+
+By Xu Han, Weilin Zhao, Ning Ding, Zhiyuan Liu, Maosong Sun
+
+DOI: https://github.com/thunlp/PTR
+
 
